@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yu Wang (汪昱)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yu Wang"
 description              : &description "personal description"
 url                      : https://pkylin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yu Wang"
-  pronouns         : "he/his"  
+  pronouns         : # pronouns  
   bio              : "Assistant Professor"
   location         : "Shanghai"
   employer         : "Tongji University"
@@ -79,10 +79,11 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'    
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

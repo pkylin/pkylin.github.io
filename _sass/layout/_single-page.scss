@@ -1,0 +1,215 @@
+/* Single Page Navigation Styles */
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section styling */
+.section {
+  margin: 80px 0;
+  padding: 20px 0;
+  min-height: 400px;
+  
+  h1 {
+    border-bottom: 2px solid #f2f3f3;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    color: #494e52;
+    font-size: 1.75em;
+  }
+  
+  h2 {
+    color: #525252;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+}
+
+/* Offset for fixed header navigation */
+.section:target {
+  padding-top: 100px;
+  margin-top: -100px;
+}
+
+/* Active navigation highlighting */
+.masthead__menu-item {
+  a[href^="#"] {
+    position: relative;
+    
+    &.active {
+      color: #52adc8;
+      
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #52adc8;
+      }
+    }
+  }
+}
+
+/* Publications styling - icon + text two-column layout */
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  overflow: visible;
+
+  .publication-icon-col {
+    flex-shrink: 0;
+    width: 28px;
+    padding-top: 2px;
+  }
+
+  .publication-text-col {
+    flex: 1;
+    min-width: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+
+  .publication-entry {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    color: #333;
+    padding-left: 15px;
+    text-indent: -15px;
+    overflow: visible;
+  }
+}
+
+.publication-first-line {
+  display: block;
+}
+
+.conference-year {
+  font-weight: 600;
+  font-size: 13px;
+  color: #555;
+  background-color: #e8e8e8;
+  padding: 2px 10px;
+  border-radius: 999px;
+  display: inline-block;
+  line-height: 1.4;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.publication-title {
+  font-weight: bold;
+  color: #333;
+  margin-left: 0;
+  display: inline;
+  font-family: 'Trebuchet MS', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.publication-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+  vertical-align: baseline;
+}
+
+.publication-authors {
+  display: block;
+  margin-top: 2px;
+  margin-left: 0;
+  color: #333;
+  font-weight: normal;
+  
+  // Some author names should be italicized (like corresponding author)
+  // This can be controlled in the markdown files by using <em> tags
+}
+
+.publication-link {
+  color: #0066cc !important;
+  text-decoration: none !important;
+  margin-left: 5px;
+  cursor: pointer !important;
+  font-weight: 500 !important;
+  
+  &:hover {
+    text-decoration: underline !important;
+    color: #004499 !important;
+  }
+  
+  &:visited {
+    color: #0066cc !important;
+  }
+  
+  &:active {
+    color: #0066cc !important;
+  }
+}
+
+/* Legacy support for old archive items */
+.archive__item {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f2f3f3;
+  padding-bottom: 20px;
+  position: relative;
+  
+  .archive__item-title {
+    display: flex;
+    align-items: flex-start;
+    line-height: 1.4;
+    
+    i {
+      margin-top: 2px;
+      flex-shrink: 0;
+    }
+    
+    a {
+      flex: 1;
+      margin: 0;
+    }
+  }
+}
+
+/* CV section styling */
+#cv {
+  .section {
+    h2 {
+      border-left: 4px solid #52adc8;
+      padding-left: 15px;
+      margin-left: 0;
+    }
+  }
+}
+
+/* Research projects cards */
+#research-projects {
+  h2 {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .section {
+    margin: 40px 0;
+    
+    &:target {
+      padding-top: 80px;
+      margin-top: -80px;
+    }
+  }
+  
+  /* Responsive publications */
+  .publication-entry {
+    font-size: 14px;
+  }
+}

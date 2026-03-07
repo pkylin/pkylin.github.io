@@ -1,0 +1,84 @@
+- conference: "CVPR"
+  year: 2026
+  title: "Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning"
+  authors: "Yu Wang and Shengjie Zhao"
+  corresponding-author: "Yu Wang"
+
+- conference: "ICLR"
+  year: 2026
+  title: "GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation"
+  authors: "Jiyong Rao, Yu Wang, and Shengjie Zhao"
+  corresponding-author: "Yu Wang"
+
+- conference: "AAAI"
+  year: 2026
+  title: "Boosting Noisy Correspondence Discrimination via Dynamic Neighborhood Semantics Verification"
+  authors: "Yu Wang, Fengxia Han, and Jianyu Wang"
+  corresponding-author: "Yu Wang"
+
+- conference: "ICML"
+  year: 2025
+  title: "Learning Event Completeness for Weakly Supervised Video Anomaly Detection"
+  authors: "Yu Wang, and Shiwei Chen"
+
+- conference: "NeurIPS"
+  year: 2025
+  title: "Point4Bit: Post Training 4-bit Quantization for Point Cloud 3D Detection"
+  authors: "Jianyu Wang, Yu Wang, Shengjie Zhao, and Sifan Zhou"
+
+- conference: "CVPR"
+  year: 2025
+  title: "Probabilistic Prompt Distribution Learning for Animal Pose Estimation"
+  authors: "Jiyong Rao, Brian Nlong Zhao, and Yu Wang"
+  corresponding-author: "Yu Wang"
+  paperlink: "https://openaccess.thecvf.com/content/CVPR2025/papers/Rao_Probabilistic_Prompt_Distribution_Learning_for_Animal_Pose_Estimation_CVPR_2025_paper.pdf"
+
+- conference: "TMM"
+  year: 2024
+  title: "Action-Semantic Consistent Knowledge for Weakly-Supervised Action Localization"
+  authors: "Yu Wang, Shengjie Zhao and Shiwei Chen"
+  paperlink: "https://ieeexplore.ieee.org/document/10539272"
+
+- conference: "TMM"
+  year: 2024
+  title: "SQL-Net: Semantic Query Learning for Point-Supervised Temporal Action Localization"
+  authors: "Yu Wang, Shengjie Zhao and Shiwei Chen"
+  paperlink: "https://ieeexplore.ieee.org/abstract/document/10814700"
+
+- conference: "ICME"
+  year: 2024
+  title: "Weakly-Supervised Action Localization by Hierarchical Attention Mechanism with Multi-Scale Fusion Strategies"
+  authors: "Yu Wang and Shengjie Zhao"
+  paperlink: "https://ieeexplore.ieee.org/document/10688175"
+
+- conference: "TMM"
+  year: 2023
+  title: "Multi-Agent Trajectory Prediction With Spatio-Temporal Sequence Fusion"
+  authors: "Yu Wang and Shiwei Chen"
+  corresponding-author: "Yu Wang"
+  paperlink: "https://ieeexplore.ieee.org/document/9580659"
+
+- conference: "CVPR"
+  year: 2023
+  title: "Two-Stream Networks for Weakly-Supervised Temporal Action Localization with Semantic-Aware Mechanisms"
+  authors: "Yu Wang, Yadong Li and Hongbin Wang"
+  corresponding-author: "Yu Wang"
+  paperlink: "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Two-Stream_Networks_for_Weakly-Supervised_Temporal_Action_Localization_With_Semantic-Aware_Mechanisms_CVPR_2023_paper.pdf"
+
+- conference: "T-ITS"
+  year: 2022
+  title: "Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion"
+  authors: "Yu Wang, Shengjie Zhao, Rongqing Zhang, Xiang Cheng and Liuqing Yang"
+  paperlink: "https://ieeexplore.ieee.org/document/9151374"
+
+- conference: "ICASSP"
+  year: 2021
+  title: "Cross-Modal Representation Reconstruction for Zero-Shot Classification"
+  authors: "Yu Wang and Shengjie Zhao"
+  paperlink: "https://ieeexplore.ieee.org/document/9413572"
+
+- conference: "ICME"
+  year: 2021
+  title: "Consistent Representation Learning Across Modalities for Zero-Shot Image Recognition"
+  authors: "Yu Wang and S. Zhao"
+  paperlink: "https://ieeexplore.ieee.org/document/9428172"

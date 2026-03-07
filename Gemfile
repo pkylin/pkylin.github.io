@@ -10,3 +10,6 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+gem 'tzinfo', '~> 2.0'
+gem 'tzinfo-data', '~> 1.2023', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'wdm', '~> 0.2.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

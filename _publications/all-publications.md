@@ -19,6 +19,14 @@ corresponding-author: "Yu Wang"
 paperlink: https://arxiv.org/abs/2603.00550
 ---
 ---
+conference/journal: CVPR Fingdings
+year: 2026
+title: Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation
+collection: publications
+category: conference
+authors: Hongli Liu, Yu Wang, and Shengjie Zhao
+---
+---
 conference/journal: ICLR
 year: 2026
 title: GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation 

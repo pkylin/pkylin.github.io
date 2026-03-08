@@ -1,4 +1,14 @@
 ---
+conference/journal: TMM
+year: 2026
+title: Learning Local Semantic Signals and Inter-class Discrepancy for Weakly Supervised Video Anomaly Detection
+collection: publications
+category: conference
+authors: Yu Wang, Shengjie Zhao, Jianyu Wang and Xutao Chu
+corresponding-author: "Yu Wang"
+paperlink: https://ieeexplore.ieee.org/document/11417271
+---
+---
 conference/journal: CVPR
 year: 2026
 title: Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning
@@ -6,6 +16,7 @@ collection: publications
 category: conference
 authors: Yu Wang and Shengjie Zhao
 corresponding-author: "Yu Wang"
+paperlink: https://arxiv.org/abs/2603.00550
 ---
 ---
 conference/journal: ICLR
@@ -32,6 +43,7 @@ title: Learning Event Completeness for Weakly Supervised Video Anomaly Detection
 collection: plublications
 category: conference
 authors: Yu Wang, and Shiwei Chen
+paperlink: https://arxiv.org/abs/2506.13095
 ---
 ---
 conference/journal: NeurIPS
@@ -40,6 +52,7 @@ title: Point4Bit: Post Training 4-bit Quantization for Point Cloud 3D Detection
 collection: publications
 category: conference
 authors: Jianyu Wang, Yu Wang, Shengjie Zhao, and Sifan Zhou
+paperlink: https://openreview.net/pdf/6ffe9956f8cbb9df5aaf51119301a29981b4be42.pdf
 ---
 ---
 conference/journal: CVPR
@@ -49,6 +62,7 @@ collection: publications
 category: conference
 authors: Jiyong Rao, Brian Nlong Zhao, and Yu Wang
 corresponding-author: Yu Wang
+paperlink: https://openaccess.thecvf.com/content/CVPR2025/papers/Rao_Probabilistic_Prompt_Distribution_Learning_for_Animal_Pose_Estimation_CVPR_2025_paper.pdf
 ---
 ---
 conference/journal: TMM

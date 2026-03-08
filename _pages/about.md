@@ -36,12 +36,12 @@ redirect_from:
   }
 </style>
 
-<section id="about" class="section">
+<section id="about-me" class="section">
 
 <div class="section-title">About Me</div>
 I am Yu Wang, an Associate Professor in the School of Computer Science and Technology at Tongji University. I was selected into the Shanghai 35 Young Sci-Tech Talents Program (Shanghai 35U35) and the Yangfan Special Project of Shanghai Rising-Star Program. I have long focused on the fields of <b>multimodal visual perception</b>, <b>understanding and decision-making</b>, and conducted research in cutting-edge directions such as <b>computer vision</b>, <b>pen visual perception</b>, and <b>multimodal video understanding and analysis</b>.
 <br/><br/>
-I have published more than 20 papers in top international journals and conferences of CCF Class A / CAS Zone 1, including NeurIPS, ICML, CVPR, ICLR, AAAI, and IEEE TMM, and have applied for/authorized more than 20 national invention patents. I won the first place in the Single-Modal Thermal Image Super-Resolution Challenge at CVPR 2025, the first place in the Cross-Spectral Image Super-Resolution Track at CVPR 2025, and the first place in the Synthetic Aperture Radar (SAR) Image Recognition Track of the Multimodal Aerial Remote Sensing Image Challenge at CVPR 2025. In addition, I obtained the first place, third place and fourth place respectively in the three tracks of End-to-End Complex Entity Linking, Few-Shot Information Extraction, and Zero-Shot Cross-Domain and Cross-Lingual Information Extraction for Rich Text Information Extraction at ICDAR 2023, a top international multimodal competition.I have long served as a reviewer for top international conferences and journals including CVPR, ICCV, ICLR, ICML, ACM MM, ECCV, BMVC, TMM, and TCSVT, and was awarded the Outstanding Reviewer Award at CVPR 2025.
+I have published more than 20 papers in top international journals and conferences of CCF A / CAS Zone 1, including NeurIPS, ICML, CVPR, ICLR, AAAI, and IEEE TMM, and have applied for/authorized more than 20 national invention patents. I won the first place in the Single-Modal Thermal Image Super-Resolution Challenge at CVPR 2025, the first place in the Cross-Spectral Image Super-Resolution Track at CVPR 2025, and the first place in the Synthetic Aperture Radar (SAR) Image Recognition Track of the Multimodal Aerial Remote Sensing Image Challenge at CVPR 2025. In addition, I obtained the first place, third place and fourth place respectively in the three tracks of End-to-End Complex Entity Linking, Few-Shot Information Extraction, and Zero-Shot Cross-Domain and Cross-Lingual Information Extraction for Rich Text Information Extraction at ICDAR 2023, a top international multimodal competition.I have long served as a reviewer for top international conferences and journals including CVPR, ICCV, ICLR, ICML, ACM MM, ECCV, BMVC, TMM, and TCSVT, and was awarded the Outstanding Reviewer Award at CVPR 2025.
 </section>
 
 <section id="publications" class="section">
@@ -54,7 +54,7 @@ I have published more than 20 papers in top international journals and conferenc
 
 </section>
 
-<section id="challenges" class="section">
+<section id="challenge-awards" class="section">
 
 <div class="section-title">Challenge Awards</div>
 
@@ -79,8 +79,6 @@ I have published more than 20 papers in top international journals and conferenc
 
 </section>
 -->
-
-
 
 <script>
 // Additional smooth scrolling behavior for navigation links

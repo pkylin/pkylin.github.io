@@ -80,22 +80,7 @@ I have published more than 20 papers in top international journals and conferenc
 </section>
 -->
 
-<section id="research-projects" class="section">
 
-<div class="section-title">Research Projects</div>
-
-My research focuses on several key areas in computer vision and multimodal learning:
-
-## Open-Vocabulary Visual Perception
-Developing methods that can understand and classify visual content beyond predefined categories, enabling more flexible and generalizable computer vision systems.
-
-## Multimodal Video Understanding
-Combining visual, audio, and textual information to create comprehensive understanding systems for video content analysis.
-
-## Zero-Shot Learning
-Building models that can recognize new categories without explicit training examples, leveraging semantic relationships and prior knowledge.
-
-</section>
 
 <script>
 // Additional smooth scrolling behavior for navigation links

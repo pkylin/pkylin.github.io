@@ -46,7 +46,7 @@ I have published more than 20 papers in top international journals and conferenc
 
 <section id="publications" class="section">
 
-<div class="section-title">Publications</div>
+<div class="section-title">Selected Publications</div>
 
 {% for post in site.data.publications %}
   {% include archive-single.html %}

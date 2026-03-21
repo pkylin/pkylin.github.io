@@ -1,4 +1,16 @@
 ---
+title: Champion of the "Understanding Toxic Behavioral Intent in Gaming Chat Logs" Challenge in the ACL 2026.
+---
+---
+title: Champion of the "Synthetic Aperture Radar (SAR) Image Recognition" Track in the CVPR 2026 Multi-modal Aerial Remote Sensing Image Recognition Challenge.
+---
+---
+title: Champion of the "Single-Modal Image Super-Resolution" Track in the CVPR 2026 Thermal Image Super-Resolution Challenge.
+---
+---
+title: Champion of the "Cross-Spectral Image Super-Resolution" Track in the CVPR 2026 Thermal Image Super-Resolution Challenge.
+---
+---
 title: Champion of the "Synthetic Aperture Radar (SAR) Image Recognition" Track in the CVPR 2025 Multi-modal Aerial Remote Sensing Image Recognition Challenge.
 ---
 ---
